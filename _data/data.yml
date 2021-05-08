@@ -39,6 +39,10 @@ career-profile:
 
 skills:
     title: Skills &amp; Proficiency
+    details: |
+      - Python
+      - Java
+
 
     toolset:
       - name: Python
@@ -72,11 +76,14 @@ experiences:
           - Problem solving
           - Agile Method
           - Innovation project
+
         Akka research
           - TLA+ Language, its functions and its implementation in Akka projects
+        
         Akka Telecom - Grand Lyon Project
           - Creation of maps regarding the fiber FTTO network in the city of Lyon
           - Creation of CSV files and Qgis shapefiles
+        
         Akka Telecom - Excel automatization
           - Creation of a GUI with Python (PyQT5 and Pandas) to manage Excels files automatically
     - role: UI Developer
