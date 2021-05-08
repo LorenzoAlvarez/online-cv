@@ -40,28 +40,36 @@ career-profile:
 skills:
     title: Skills &amp; Proficiency
     details: |
-      - Python
-      - Java
-
-
-    toolset:
-      - name: Python
-      - name: Java
-      
-      - name: Sketch & Photoshop
-        level: 60%
+      - Programming languages: Python, JAVA
+      - Backend Technologies: Flask
+      - Web Content Management: Wordpress and OpenCMS
+      - Deployment, management and configuration of Apache, MySQL, Passenger and Apache Tomcat 
+      - Deployment of services on public cloud systems: AWS, Azure, Google Compute Engine
+      - Deployment of applications with Docker
 
 education:
     - degree: MSc in Computer Science
       university: University of Huelva
       time: 2017
+    - degree: Bitnami Bootcamp, Bitnami
+      time: Feb 2015
+      details: |
+        90h course about cloud system administration
+          - Linux System administration, advanced level
+          - Security management
+          - Tools for software distribution
+          - Deployment, management, configuration and maintenance of servers: Apache, MySQL, Passenger and Apache Tomcat Virtualization, OpenStack as private cloud system
+          - Deployment in public cloud computing systems: AWS, Azure, Google Compute Engine
+    - degree: Erasmus Program
+      university: Duale Hochschule Baden Wüttemberg Mannheim
+      time: 2012 - 2013
     - degree: BSc in Computer Science
       university: University of Huelva
       time: 2011
 
 experiences:
     - role: Software Developer
-      time: 2019 - Present
+      time: Sep 2019 - Present
       company: Alten, Paris
       details: |
         Project Dedale (Edvance)
@@ -69,7 +77,7 @@ experiences:
           - SQLAlchemy
           - WxPython
     - role: International Consultant
-      time: 2018 - 2019
+      time: Apr 2018 - Sep 2019
       company: Akka, Paris
       details: |
         Akkademy intensive course (Geneva)
@@ -86,17 +94,27 @@ experiences:
         
         Akka Telecom - Excel automatization
           - Creation of a GUI with Python (PyQT5 and Pandas) to manage Excels files automatically
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Help Desk Support Specialist
+      time: Dec 2015 - Apr 2018
+      company: Tragsatec, Huelva
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Technical Support
+        - Network configuration
+        - Assets management
+        - Tutorials making (Software and Hardware installation)
+    - role: Internship, Web Developer
+      time: Jun 2014 - Dec 2014
+      company: Estentor Social Media Marketing, Huelva
+      details: |
+        Website creator
+          - Creation of corporate websites using CMS Wordpress
+          - Creation of corporate websites using CMS OpenCMS (Java)
+    - role: Volunteer
+      time: Sep 2013 - Jun 2017
+      company: ESN Huelva
+      details: |
+        Creation of the website using Drupal
+
 projects:
     title: Projects
     intro: >
