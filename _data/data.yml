@@ -41,21 +41,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
+      - name: Python
+      - name: Java
+      
       - name: Sketch & Photoshop
         level: 60%
 
@@ -72,28 +60,25 @@ experiences:
       time: 2019 - Present
       company: Alten, Paris
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Project Dedale (Edvance)
+          - Python
+          - SQLAlchemy
+          - WxPython
+    - role: International Consultant
+      time: 2018 - 2019
+      company: Akka, Paris
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Akkademy intensive course (Geneva)
+          - Problem solving
+          - Agile Method
+          - Innovation project
+        Akka research
+          - TLA+ Language, its functions and its implementation in Akka projects
+        Akka Telecom - Grand Lyon Project
+          - Creation of maps regarding the fiber FTTO network in the city of Lyon
+          - Creation of CSV files and Qgis shapefiles
+        Akka Telecom - Excel automatization
+          - Creation of a GUI with Python (PyQT5 and Pandas) to manage Excels files automatically
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
