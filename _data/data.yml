@@ -73,6 +73,7 @@ experiences:
       company: Exomind, Paris
       details: |
         Backend Developer at project Labelops (SNCF)
+        Web application that reads different sources of information about the company's internal applications and exposes the different security flaws with a global note
           - Python
           - Pyramid
           - Kubernetes
@@ -84,6 +85,7 @@ experiences:
       company: Alten, Paris
       details: |
         Project Dedale (Edvance)
+        Windows application used for the construction of nuclear power plants. It porpuse was to automate the routing of the cables that had to be installed in a nuclear power plant. Using Genetic Algorithm
           - Python
           - SQLAlchemy
           - WxPython
