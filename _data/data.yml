@@ -41,11 +41,11 @@ skills:
     title: Skills &amp; Proficiency
     details: |
       - Programming languages: Python, JAVA
-      - Backend Technologies: Flask
-      - Web Content Management: Wordpress and OpenCMS
+      - Backend Technologies: Flask, Pyramid, Django
       - Deployment, management and configuration of Apache, MySQL, Passenger and Apache Tomcat 
       - Deployment of services on public cloud systems: AWS, Azure, Google Compute Engine
       - Deployment of applications with Docker
+      - Deployment of lambda functions using SAM
 
 education:
     - degree: MSc in Computer Science
