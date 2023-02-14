@@ -79,6 +79,8 @@ experiences:
           - Docker
           - AWS (EKS, Lambda)
           - Datadog
+          - Git (Gitlab)
+          - Gitlab CI/CD
     - role: Software Developer
       time: Sep 2019 - Mar 2022
       company: Alten, Paris
